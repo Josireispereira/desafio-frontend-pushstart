@@ -1,8 +1,8 @@
 ## Desafio Front End para a PushStart Studio - Documentação
-Esse projeto consiste em uma das etapas da vaga para desenvolvedor Fron-tend na PushSart Studio.
+Esse projeto consiste em uma das etapas da vaga para desenvolvedor Fron-tend na [PushSart Studio](http://pushstart.com.br/#/landing).
 "O desafio é criar um site responsivo mobile-first que apresenta conteúdo dinâmico. O mockup interativo deverá ser usado como referência para as interações, para a criação do layout responsivo mobile-first e para o fluxo de telas."
 
-Esse projeto foi feito usando a bilbioteca React e a ferramenta Create React App
+Esse projeto foi feito usando a bilbioteca **React** e a ferramenta **Create React App**.
 
 ### Instruções:
 - Clone ou baixe a URL deste repositório
